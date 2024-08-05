@@ -1,11 +1,7 @@
 <h1>Hi, I'm Shravani!👋 </h1>
 
-- <b> I'm passionate about data and love to uncover opportunities for simplifying processes. 
-In my 9+ years of professional experience, I've built a career around extracting valuable insights from large datasets to drive business strategies. 
-My background includes designing and implementing BI solutions from end to end, from requirement gathering, data extraction and transformation to dashboard creation and performance monitoring. 
-I'm proficient in SQL, SAS, Python, Tableau and have experience with data warehousing technologies like Snowflake, Azure Synapse Analytics, IBM Db2, Oracle and a little bit with AWS Redshift.
-I have a background in supply chain with a focus on optimizing operations and driving efficiency. 
-I excel in collaborative environments where I can work closely with Stakeholders & cross-functional teams, so that I can understand their needs and deliver actionable insights.
+- <b> Passionate about data and love to uncover opportunities for simplifying processes.
+-  Analyzing and visualizing data to boost data-driven decision making.
 </b>
 
 <h3> Business Intelligence Projects: </h3>
