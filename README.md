@@ -19,7 +19,7 @@ I excel in collaborative environments where I can work closely with Stakeholders
 - <b>Strategy Document</b>
   - (https://github.com/)
  
-- <b>Dashboards</b>
+- <b>Data Visualization</b>
   - (https://github.com/)
  
 <h3>Certifications</h3>  
